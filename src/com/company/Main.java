@@ -13,6 +13,8 @@ public class Main {
 
     public static void main(String[] args) throws IOException, SQLException, ClassNotFoundException {
 
+
+
         Department department=new Department(10);
 
         CustomerManagement customerManagement=new CustomerManagement();
